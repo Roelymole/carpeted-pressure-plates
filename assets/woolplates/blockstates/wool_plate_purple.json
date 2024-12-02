@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "block/purple_carpet" },
+        "powered=true": { "model": "block/purple_carpet" }
+    }
+}
