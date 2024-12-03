@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "block/light_gray_carpet" },
+        "powered=true": { "model": "block/light_gray_carpet" }
+    }
+}
