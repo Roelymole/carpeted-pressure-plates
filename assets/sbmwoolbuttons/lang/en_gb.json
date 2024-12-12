@@ -1,6 +1,4 @@
 {
     "block.sbmwoolbuttons.wool_button_gray": "Grey Wool Button",
-    "block.sbmwoolbuttons.wool_button_light_gray": "Light Grey Wool Button",
-    "item.sbmwoolbuttons.wool_button_gray": "Grey Wool Button",
-    "item.sbmwoolbuttons.wool_button_light_gray": "Light Grey Wool Button"
+    "block.sbmwoolbuttons.wool_button_light_gray": "Light Grey Wool Button"
 }
